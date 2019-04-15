@@ -17,6 +17,7 @@ PRIORITIES RIGHT NOW
 1. Create the home page.
 2. Create the system of navigation on the website.
 3. Create newsfeed for current events/create organized page where users can interact with news that should be interacted with.
+4. Radio app would be fun to play with in the future.
 ------------------------------------------------------------------------------
 Questions to ask ourselves: 
 
