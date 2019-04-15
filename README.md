@@ -2,6 +2,16 @@
 
 Website for the FC. 
 
+How to contribute:
+
+Ask for permissions, please know how to use git before asking. Discord Imp#5482
+ Email Skuiskaiofficial@gmail.com
+
+Clone the files into the directory of your choice, you can always do this even without permissions, so if you want to view 
+the website you can always download the files and open the index.html file with your browser. Be sure that all of the files 
+that came in Odder_Otters directory are still in the same directory, they should be by default, but if you want to move them 
+you have to move all of them. 
+
 PRIORITIES RIGHT NOW
 
 1. Create the home page.
