@@ -1,5 +1,5 @@
 # odderotters
-FC website project
+
 Website for the FC. 
 
 PRIORITIES RIGHT NOW
