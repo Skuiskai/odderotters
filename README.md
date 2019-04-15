@@ -22,4 +22,4 @@ Setup a system of navigation between different parts of the website. Just need t
 Future goals
 
 DESIGN, we need to get some art on the website
-Custome logo, custom navigation bars and custom background are essential.
+Custom logo, custom navigation bars and custom background are essential.
