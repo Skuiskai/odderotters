@@ -1,0 +1,79 @@
+body {
+	background-color: #2FAFE2;
+}
+
+.image {
+	height: 300px;
+	width: 30%;
+	margin: 1.50%;
+	float: left;
+	background-size: cover;
+	background-position:center center;
+	border: 1px solid black;
+}
+
+#textOdder {
+	text-decoration: underline;
+	font-family: "Cute Font", cursive;
+	font-size: 45px;
+}
+
+#Logo {
+	height: 100px;
+	width: 100px;
+	padding-top: 30px;
+}
+
+#header{
+	width: 30%;
+	height: 100px;
+	margin-left: 1.50%;
+	/*background-color: blue;*/
+	margin-bottom: 100px;
+}
+
+#box {
+	width: 40%;
+	height: 100px;
+	/*background-color: red;*/
+	margin-bottom: 100px;
+}
+.together {
+	float: left;
+}
+
+.image1 {
+	background-image: url(odderOdder1.jpg);
+}
+
+.image2 {
+	background-image: url(odderOdder2.png);
+}
+
+.image3 {
+	background-image: url(odderOdder3.jpg);
+}
+
+.image4 {
+	background-image: url(odderOdder4.jpg);
+}
+
+.image5 {
+	background-image: url(odderOdder5.jpg);
+}
+
+.image6 {
+	background-image: url(odderOdder6.jpg);
+}
+
+.image7 {
+	background-image: url(odderOdder7.jpg);
+}
+
+.image8 {
+	background-image: url(odderOdder8.png);
+}
+
+.image9 {
+	background-image: url(odderOdder9.png);
+}
