@@ -1,6 +1,11 @@
 # odderotters
 
 Website for the FC. 
+In production right now:
+
+Image gallery skeleton has been completed, now the navigation system must be added so it can be implemented on the page,
+further functionality will be added to include things such as allowing members to post their own images and have them featured
+like photos, comment on photos etc.
 
 How to contribute:
 
