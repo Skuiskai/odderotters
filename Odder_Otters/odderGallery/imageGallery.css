@@ -16,12 +16,13 @@ body {
 	text-decoration: underline;
 	font-family: "Cute Font", cursive;
 	font-size: 45px;
+
 }
 
 #Logo {
 	height: 100px;
 	width: 100px;
-	padding-top: 30px;
+
 }
 
 #header{
@@ -29,14 +30,14 @@ body {
 	height: 100px;
 	margin-left: 1.50%;
 	/*background-color: blue;*/
-	margin-bottom: 100px;
+	margin-bottom: 50px;
 }
 
 #box {
 	width: 40%;
 	height: 100px;
 	/*background-color: red;*/
-	margin-bottom: 100px;
+	margin-bottom: 50px;
 }
 .together {
 	float: left;
