@@ -2,6 +2,7 @@ body {
 	background-color: #2FAFE2;
 }
 
+/*Formatting for the images, these are organized into individual divs*/
 .image {
 	height: 300px;
 	width: 30%;
@@ -12,6 +13,7 @@ body {
 	border: 1px solid black;
 }
 
+/*This is the headers text*/
 #textOdder {
 	text-decoration: underline;
 	font-family: "Cute Font", cursive;
@@ -20,16 +22,19 @@ body {
 
 }
 
+/*ID setup for the image to the left of the header to have it float up against the header div*/
 #syn {
     float: right;
 }
 
+/*Class for both logos to compress the image to a good size*/
 .Logo {
 	height: 100px;
 	width: 100px;
 
 }
 
+/*header div used to contain header info*/
 #header{
 	width: 30%;
 	height: 100px;
@@ -37,14 +42,16 @@ body {
 	margin-bottom: 50px;
 }
 
+/*Div setup for the image to the left of the header NOTE! This needs work, need to split them up so they are perfectly centered 40% is not ok*/
 #box1 {
-	width: 30%;
+	width: 40%;
 	height: 100px;
 	/*background-color: green;*/
 	margin-bottom: 50px;
 	margin-left: 1.50%;
 }
 
+/*Div setup for the image to the right of the header*/
 #box {
 	width: 30%;
 	height: 100px;
@@ -52,10 +59,12 @@ body {
 	margin-bottom: 50px;
 }
 
+/*Class setup to allow divs to horizontally line up*/
 .together {
 	float: left;
 }
 
+/*Currently how the images are setup, each image has the class image and nth-of-image, image is the formatting for the grid*/
 .image1 {
 	background-image: url(odderOdder1.jpg);
 }
