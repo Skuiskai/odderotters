@@ -16,10 +16,15 @@ body {
 	text-decoration: underline;
 	font-family: "Cute Font", cursive;
 	font-size: 45px;
+	text-align: center;
 
 }
 
-#Logo {
+#syn {
+    float: right;
+}
+
+.Logo {
 	height: 100px;
 	width: 100px;
 
@@ -28,17 +33,25 @@ body {
 #header{
 	width: 30%;
 	height: 100px;
-	margin-left: 1.50%;
 	/*background-color: blue;*/
 	margin-bottom: 50px;
 }
 
+#box1 {
+	width: 30%;
+	height: 100px;
+	/*background-color: green;*/
+	margin-bottom: 50px;
+	margin-left: 1.50%;
+}
+
 #box {
-	width: 40%;
+	width: 30%;
 	height: 100px;
 	/*background-color: red;*/
 	margin-bottom: 50px;
 }
+
 .together {
 	float: left;
 }
