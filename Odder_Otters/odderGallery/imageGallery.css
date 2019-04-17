@@ -1,5 +1,11 @@
+html {
+	height: 100%;
+	margin: 0;
+}
 body {
 	background-color: #2FAFE2;
+	height: 100%;
+	margin: 0;
 }
 
 /*Formatting for the images, these are organized into individual divs*/
@@ -50,7 +56,10 @@ body {
 	margin-bottom: 50px;
 	margin-left: 1.50%;
 }
-
+#container {
+	height: 180%;
+	width: 100%;
+}
 /*Div setup for the image to the right of the header*/
 #box {
 	width: 30%;
@@ -62,6 +71,15 @@ body {
 /*Class setup to allow divs to horizontally line up*/
 .together {
 	float: left;
+}
+
+#pageCounter {
+	width: 200px;
+	height: 50px;
+	background-color: yellow;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
 }
 
 /*Currently how the images are setup, each image has the class image and nth-of-image, image is the formatting for the grid*/
