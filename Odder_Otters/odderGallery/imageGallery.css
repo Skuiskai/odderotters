@@ -44,7 +44,7 @@ body {
 
 /*Div setup for the image to the left of the header NOTE! This needs work, need to split them up so they are perfectly centered 40% is not ok*/
 #box1 {
-	width: 40%;
+	width: 35%;
 	height: 100px;
 	/*background-color: green;*/
 	margin-bottom: 50px;
